@@ -1,0 +1,17 @@
+{
+  "name": "nodemailersample",
+  "version": "1.0.0",
+  "description": "Nodemailer Email Sending Sample",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Queiroz",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "nodemailer": "^6.1.0"
+  }
+}
